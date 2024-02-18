@@ -1,0 +1,17 @@
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\bin\Debug\net6.0-windows\UAS_PV_220401010234.exe
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\bin\Debug\net6.0-windows\UAS_PV_220401010234.deps.json
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\bin\Debug\net6.0-windows\UAS_PV_220401010234.runtimeconfig.json
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\bin\Debug\net6.0-windows\UAS_PV_220401010234.dll
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\bin\Debug\net6.0-windows\UAS_PV_220401010234.pdb
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.vbproj.AssemblyReference.cache
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.Form1.resources
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.vbproj.GenerateResource.cache
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.AssemblyInfoInputs.cache
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.AssemblyInfo.vb
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.vbproj.CoreCompileInputs.cache
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.dll
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\refint\UAS_PV_220401010234.dll
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.pdb
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\UAS_PV_220401010234.genruntimeconfig.cache
+C:\Users\choan\source\repos\UAS_PV_220401010234\UAS_PV_220401010234\obj\Debug\net6.0-windows\ref\UAS_PV_220401010234.dll
